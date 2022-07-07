@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XjaXzKzaHAmnR+c85G+BWuLSksQ1YTNJ24/6PPCT/bc=",
+  "Source": "Graph.Web.Api",
+  "BasePath": "_content/Graph.Web.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
